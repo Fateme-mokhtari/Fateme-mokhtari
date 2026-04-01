@@ -14,7 +14,7 @@ Building for the web since before centering a div was easy. **9+ years** of expe
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img alt="Snake animation" src="https://github.com/fatemeh-mokhtari/fatemeh-mokhtari/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://github.com/fateme-mokhtari/fateme-mokhtari/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ### 📫 Get in Touch
